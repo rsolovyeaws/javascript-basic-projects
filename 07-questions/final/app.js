@@ -20,11 +20,11 @@ questions.forEach(function (question) {
 
 // traversing the dom
 // const btns = document.querySelectorAll(".question-btn");
-
+// console.log(btns.length)
 // btns.forEach(function (btn) {
 //   btn.addEventListener("click", function (e) {
 //     const question = e.currentTarget.parentElement.parentElement;
-
+//     console.log("btn")
 //     question.classList.toggle("show-text");
 //   });
 // });
